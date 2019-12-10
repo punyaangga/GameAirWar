@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=pahlawan
+comment0.text=\r\n\ Game\ dibuat\ oleh\ \:\r\n\ \r\n\ @author\ (Angga\ Fantiya\ Hermawan)\ \r\n\ follow\ istagram\ (punya_angga)\r\n@email\ (anggafantiya@gmail.com)\r\n
+comment1.params=area
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
